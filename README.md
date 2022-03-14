@@ -5,3 +5,9 @@ Going back to the **C** programming language. After a year and a half with some 
 
 I don't know what to do next. I was reading about a **distributed hash table**. Lets see.
 
+Usage
+---
+
+```shell
+$ make run
+```
