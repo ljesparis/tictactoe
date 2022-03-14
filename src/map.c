@@ -54,7 +54,7 @@ void free_map(struct map_t *m)
 uint8_t set_play(struct map_t *m, const struct player_t *player, const int8_t pos)
 {
     uint8_t c = *(m->raw_map + pos);
-    if (c != 'X' && c != 'O')
+    if (c != X_PLAYER && c != O_PLAYER)
     {
         *(m->raw_map + pos) = player->raw_player;
         return 0;
