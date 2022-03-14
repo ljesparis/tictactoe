@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdarg.h": "c",
+        "_stdio.h": "c",
+        "_null.h": "c",
+        "_size_t.h": "c",
+        "_types.h": "c",
+        "_va_list.h": "c",
+        "types.h": "c",
+        "availability.h": "c",
+        "cdefs.h": "c",
+        "stdlib.h": "c",
+        "_malloc.h": "c",
+        "cstdio": "c",
+        "ncurses.h": "c",
+        "strings.h": "c",
+        "system_error": "c",
+        "math.h": "c",
+        "_strings.h": "c",
+        "string.h": "c",
+        "map.h": "c",
+        "errno.h": "c",
+        "murmur3_hash.h": "c",
+        "player.h": "c"
+    }
+}
